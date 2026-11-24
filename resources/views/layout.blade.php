@@ -4,7 +4,7 @@
     <title>Inventory App</title>
 </head>
 <body>
-    <h2>Inventory System</h2>
+    <h2>Sistem Manajemen Inventory</h2>
     <nav>
         <a href="/products">Products</a> |
         <a href="/stocks">Stocks</a> |
